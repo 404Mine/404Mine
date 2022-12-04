@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @404Mine
 - 👀 I’m interested in programming stuffs!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Different types of beginner languages
 - 💞️ I’m looking to collaborate on whenever am ready and well knowledged enough.
-- 📫 How to reach me chat me on twitter(@Mine404tato)
+- 📫 How to reach me chat me on twitter(@Mine4tato)
 - :v: I'm here to learn more and explore!
 
 <!---
